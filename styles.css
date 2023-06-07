@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: mediumturquoise;
+    background-color: rgb(159, 167, 173);
     color: white;
     font-family: monospace;
     min-height: 100vh;
@@ -71,7 +71,7 @@ form button:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    transition: 0.5s;
+    transition: 0.2s;
     border-radius: 2rem;
 }
 
